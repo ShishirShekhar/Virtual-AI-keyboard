@@ -1,1 +1,1 @@
-web: guicorn app:main
+web: gunicorn app:main

@@ -2,4 +2,4 @@ Flask==2.0.2
 pynput==1.7.3
 cvzone==1.5.2
 opencv_python==4.5.3.56
-gunicorn
+gunicorn==20.1.0
